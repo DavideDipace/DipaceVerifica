@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./componente2.component.css']
 })
 export class Componente2Component {
-
+  var3 = 'secondo'
 }
